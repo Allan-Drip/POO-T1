@@ -28,7 +28,8 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-   Este repositório contêm problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a><br> Na disciplina de programação orientada a objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>. 
+<img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+Este repositório contêm problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>, na disciplina de programação orientada a objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>. 
 
   
 
