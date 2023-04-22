@@ -6,7 +6,7 @@
 | 07 | Faça um programa que receba o peso de uma pessoa, calcule e mostre:  | 
 | a) | O novo peso se a pessoa engordar 15% sobre o peso digitado. |  
 | b) | O novo peso se a pessoa emagrecer 20% sobre o peso digitado. |   
-| 08 | Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso e gramas.|
+| 08 | Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.|
 | 09 | Faça um programa que calcule e mostre a área de um trapézio. |
 | 11 | Faça um programa que calcule e mostre a área de um losangulo. |
 | 14 | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: |
