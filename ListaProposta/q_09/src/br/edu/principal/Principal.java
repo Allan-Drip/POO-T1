@@ -3,19 +3,28 @@ import java.util.Scanner;
 public class Principal {
 	public static void main(String[] args) {
 	
-		System.out.println("############################# ");
-		System.out.println("Qual a sua massa em gramas??? ");
-		System.out.println("############################# \n");
+		System.out.println("#############################");
+		System.out.println("Valor da área de um trapézio ");
+		System.out.println("#############################\n");
 		
-		double massa = 0;
-		double gramas = 0;
+		double bmaior = 0;
+		double bmenor = 0;
+		double altura = 0;
+		double area = 0;
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite a sua massa em kilogramas: ");
-		massa = sc.nextDouble();
+		System.out.println("Digite o valor da base maior: ");
+		bmaior = sc.nextDouble();
 		
-		gramas = massa * 1000;
-		System.out.println("Sua massa em gramas �: " + gramas);
+		System.out.println("Digite o valor da base menor: ");
+		bmenor = sc.nextDouble();
+		
+		System.out.println("Digite o valor da altura: ");
+		altura = sc.nextDouble();
+		
+		area = ((bmaior+bmenor)*altura)/2;
+		System.out.println("O valor da área do trapézio é: "+area);		 
 }
 }
+
