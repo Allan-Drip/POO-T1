@@ -16,6 +16,6 @@ public class Principal {
 		massa = sc.nextDouble();
 		
 		gramas = massa * 1000;
-		System.out.println("Sua massa em gramas �: " + gramas);
+		System.out.println("Sua massa em gramas é: " + gramas);
 }
 }
