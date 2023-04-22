@@ -1,4 +1,4 @@
-package br.edu.principal;
+ package br.edu.principal;
 import java.util.Scanner;
 
 public class Principal {
@@ -20,7 +20,7 @@ public class Principal {
 		perc = pc.nextDouble();
 		
 		double novosal;
-		novosal = sal * ((100+perc)/100);
+		novosal = sal + ((sal*perc)/100);
 		System.out.println("O novo valor do salário é de: " +novosal+ " reais");
 		
 	}
