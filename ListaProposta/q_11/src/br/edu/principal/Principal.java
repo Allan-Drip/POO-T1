@@ -12,12 +12,13 @@ package br.edu.principal;
                  Scanner sc = new Scanner(System.in); 
                 
                  double dimaior,dimenor; 
+		 
                  System.out.println("Digite o valor da Diagonal maior: "); 
-                 
-                 dimaior = sc.nextDouble(); 
-                 System.out.println("Digite o valor da Diagonal menor: "); 
-                 
+      		 dimaior = sc.nextDouble(); 
+		 
+                 System.out.println("Digite o valor da Diagonal menor: ");                
                  dimenor = sc.nextDouble(); 
+		 
                  System.out.println("O valor da área do losango : "+(dimaior*dimenor)/2); 
          } 
   
