@@ -17,7 +17,7 @@ package br.edu.principal;
                  System.out.println("Digite o valor do  ângulo formado pela escada e o chão(valor em graus): "); 
                  ang = sc.nextDouble(); 
                  
-                 System.out.println("Digite o valor da altura da parede em metros: "); 
+                 System.out.println("Digite o valor da altura da parede: "); 
                  alt = sc.nextDouble(); 
                  
                  radiano = ang*3.14/180; 
