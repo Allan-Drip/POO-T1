@@ -25,7 +25,7 @@ public class Principal {
 		segundos = minutos_totais * 60; // 1 minuto possui 60 segundos.
 		
 		System.out.println(horas + " horas possuem " + horas_em_minutos + " minutos. \n");
-		System.out.println("Ao total, o hor�rio digitado possui " + minutos_totais + " minutos.\n");
+		System.out.println("Ao total, o horário digitado possui " + minutos_totais + " minutos.\n");
 		System.out.println( "E " +minutos_totais + " minutos possuem " + segundos + " segundos.");
 	}
 }
