@@ -13,16 +13,16 @@ public class Principal {
 		double potencia = 0;
 		
 		Scanner sc = new Scanner (System.in);
-		System.out.println("Digite o primeiro comprimento do seu c�modo: ");
+		System.out.println("Digite o primeiro comprimento do seu cômodo: ");
 		comprimento1 = sc.nextDouble();
-		System.out.println("Digite o segundo comprimento do seu c�modo: ");
+		System.out.println("Digite o segundo comprimento do seu cômodo: ");
 		comprimento2 = sc.nextDouble();
 		
 		area = comprimento1 * comprimento2;
 		
-		potencia = area * 18; // pot�ncia foi inicializada como double para n�o precisar de altera��es na linha 21
+		potencia = area * 18; // potência foi inicializada como double para não precisar de alterações na linha 21
 		
-		System.out.println("Em uma �rea de " + area + " m�, dever� ser utilizado um total de " + potencia+ "W para iluminar o local.");
+		System.out.println("Em uma área de " + area + " m², deverá ser utilizado um total de " + potencia+ "W para iluminar o local.");
 				
 	}
 }
