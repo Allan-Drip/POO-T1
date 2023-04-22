@@ -4,7 +4,7 @@ public class Principal {
 	public static void main(String[] args) {
 		
 		System.out.println("##################");
-		System.out.println("MARCA��ES DE TEMPO ");
+		System.out.println("MARCAÇÕES DE TEMPO ");
 		System.out.println("################## \n");
 		
 		int AnoNasc = 0;
