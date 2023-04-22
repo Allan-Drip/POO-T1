@@ -29,7 +29,7 @@ public class Principal {
 		idadeDias = idade * 365; // 1 ano possui 365 dias
 		idadeSemanas = idade * 52; // 1 ano possui 52 semanas
 		
-		System.out.println("Voc� possui " + idade + " anos, " + idadeMeses + " meses, " + idadeDias + " dias e " + idadeSemanas+ " semanas de vida!");
+		System.out.println("Você possui " + idade + " anos, " + idadeMeses + " meses, " + idadeDias + " dias e " + idadeSemanas+ " semanas de vida!");
 		
 		
 	}
