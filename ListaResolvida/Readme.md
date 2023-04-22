@@ -10,7 +10,7 @@
 |a)    | A hora trabalhada vale a metade do salário mínimo.
 |b)    | O salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada.
 |c)    | O imposto equivale a 3% do salário bruto.
-|d)    | o salário a receber equivale ao salário bruto menos o imposto.
+|d)    | O salário a receber equivale ao salário bruto menos o imposto.
 |17    | Um trabalhador recebeu seu salário e o depositou em sua conta corrente bancária. Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual. Sabe-se que cada operação bancária de retirada paga  CPMF de 0.38% e o saldo inicial da sua conta está zerado. 
 |18    | Pedro comprou um saco de ração com peso em quilos. Pedro possui dois gatos para os quais fornece a quantidade de ração em gramas. Faça um programa que receba o peso do saco de ração e a quantidade de ração fornecida para cada gato. Calcule e mostre quanto restará no saco após cinco dias. 
 |20    | Faça um programa que receba a medida do ângulo formado por uma escada apoiada no chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a medida desta escada. 
