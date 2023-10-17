@@ -56,7 +56,9 @@
 
  -------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
- Este repositório contém problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>. Ele foi feito para abrigar a entrega do primeiro trabalho da primeira etapa da disciplina de Programação Orientada a Objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external"> Roger Sarmento</a>. A tarefa foi dividida em duas partes: a primeira chamada de Listas Propostas, que diz respeito aos enunciados em que não foram fornecidos para os alunos os algoritmos para a resolução da questão e a segunda é chamada de Listas Resolvidas, em que os algoritmos para a resolução do problema foram oferecidos para os estudantes. Cada pasta possui dez questões resolvidas, finalizando, ao total, vinte resoluções.</a>. 
+ Este repositório contém problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>. Ele foi feito para abrigar a entrega do primeiro trabalho da primeira etapa da disciplina de Programação Orientada a Objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external"> Roger Sarmento</a>. A tarefa foi dividida em duas partes: a primeira chamada de Listas Propostas, que diz respeito aos enunciados em que não foram fornecidos para os alunos os algoritmos para a resolução da questão e a segunda é chamada de Listas Resolvidas, em que os algoritmos para a resolução do problema foram oferecidos para os estudantes. Cada pasta possui dez questões resolvidas, finalizando, ao total, vinte resoluções.
+ https://www.canva.com/design/DAFv2GI0PLg/c5L48WCTtry8W0RWFV_-2w/edit?utm_content=DAFv2GI0PLg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ </a>. 
 
   
 
